@@ -1,3 +1,3 @@
 # EthereumReactLotteryContract
 
-(./img.png?raw=true "Title")
+<img src="./img.PNG" width="350"/>
