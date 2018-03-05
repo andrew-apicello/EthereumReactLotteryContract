@@ -1,3 +1,3 @@
 # EthereumReactLotteryContract
 
-![Alt text](./img.png?raw=true "Title")
+(./img.png?raw=true "Title")
