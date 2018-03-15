@@ -1,4 +1,4 @@
-# EthereumReactLotteryContract
+# Lottery Contract
 
 <img src="./img.PNG" width="350"/>
 
