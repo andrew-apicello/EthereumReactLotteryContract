@@ -10,7 +10,7 @@ The contract has three public functions:
     If the value is higher than a certain amount, he or she's public address is added to the array of players<br />
     <br />
   * Get all players<br />
-   Returns all players, instead of just one at a time provided by the native function<br />
-  <br />
+    Returns all players, instead of just one at a time provided by the native function<br />
+    <br />
   * Pick Winner<br />
     Accessible only by the manager, transfers the balance of the contract to a psuedo-random entity from the players array
